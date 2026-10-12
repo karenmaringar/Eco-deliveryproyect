@@ -1,0 +1,16 @@
+fecha_reporte,tipo_metrica,dimension,categoria,valor
+2026-09-02,tiempo_promedio_entrega_min,zona,Norte,42.6
+2026-09-02,ingresos_totales,zona,Norte,662100.0
+2026-09-02,tiempo_promedio_entrega_min,zona,Sur,32.33
+2026-09-02,ingresos_totales,zona,Sur,507900.0
+2026-09-02,tiempo_promedio_entrega_min,zona,Centro,38.38
+2026-09-02,ingresos_totales,zona,Centro,902000.0
+2026-09-02,tiempo_promedio_entrega_min,zona,Occidente,57.2
+2026-09-02,ingresos_totales,zona,Occidente,387900.0
+2026-09-02,tiempo_promedio_entrega_min,zona,Chapinero,49.75
+2026-09-02,ingresos_totales,zona,Chapinero,476900.0
+2026-09-02,cantidad_pedidos,estado,pendiente,8
+2026-09-02,cantidad_pedidos,estado,en_camino,15
+2026-09-02,cantidad_pedidos,estado,entregado,33
+2026-09-02,cantidad_pedidos,estado,cancelado,4
+2026-09-02,total_pedidos,general,total,60

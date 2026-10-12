@@ -1,0 +1,42 @@
+# Backend (Node.js)
+backend/node_modules/
+backend/ecodelivery.db
+backend/ecodelivery.db-shm
+backend/ecodelivery.db-wal
+backend/.env
+
+# Flutter
+app_flutter/.dart_tool/
+app_flutter/.flutter-plugin-dependencies
+app_flutter/build/
+app_flutter/.packages
+app_flutter/pubspec.lock
+
+# Airflow
+airflow/logs/
+airflow/airflow.db
+airflow/airflow.cfg
+__pycache__/
+*.pyc
+
+# Power BI / archivos temporales
+*.pbi-cache
+*.pbi-data
+*.pbi-tools
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+.env
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+
+# Dependencias de Node.js
+node_modules/
